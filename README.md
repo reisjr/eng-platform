@@ -1,7 +1,7 @@
 # Engenharia de Plataforma
 
 * CNCF Platforms White Paper - https://tag-app-delivery.cncf.io/whitepapers/platforms/
-* Well Architeted Framework - https://go.aws/453HqMg
+* Well Architected Framework - https://go.aws/453HqMg
 * PlatformCon 2023 - https://platformcon.com/talks
 * Backstage on AWS - https://bit.ly/aws-backstage
 * Skill Builder - https://skillbuilder.aws
