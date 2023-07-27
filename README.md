@@ -4,7 +4,8 @@
 * Well Architeted Framework - https://go.aws/453HqMg
 * PlatformCon 2023 - https://platformcon.com/talks
 * Backstage on AWS - https://bit.ly/aws-backstage
-* Skill Builder - skillbuilder.aws
+* Skill Builder - https://skillbuilder.aws
+* Backstage - https://backstage.io/
 
 # Serviços da AWS
 
