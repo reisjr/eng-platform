@@ -6,6 +6,7 @@
 * Backstage on AWS - https://bit.ly/aws-backstage
 * Skill Builder - https://skillbuilder.aws
 * Backstage - https://backstage.io/
+* Internal Development Platform - https://internaldeveloperplatform.org/
 
 # Contatos LinkedIn
 
