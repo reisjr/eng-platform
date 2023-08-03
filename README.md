@@ -1,16 +1,19 @@
-# Engenharia de Plataforma
+# Plataforma de Desenvolvimento Interna / Engenharia de Plataforma
+
+## Referências
 
 * CNCF Platforms White Paper - https://tag-app-delivery.cncf.io/whitepapers/platforms/
 * Well Architected Framework - https://go.aws/453HqMg
 * PlatformCon 2023 - https://platformcon.com/talks
 * Backstage on AWS - https://bit.ly/aws-backstage
-* Skill Builder - https://skillbuilder.aws
 * Backstage - https://backstage.io/
 * Internal Development Platform - https://internaldeveloperplatform.org/
 
-# Contatos LinkedIn
+## Aprenda
 
-Siga-nos no Linkedin!
+* Skill Builder - https://skillbuilder.aws
+
+## Conecte-se
 
 * David Reis - https://www.linkedin.com/in/davidreisjr/
 * Pedro Rosinholi - https://www.linkedin.com/in/pedrorosinholi/
@@ -18,7 +21,7 @@ Siga-nos no Linkedin!
 * Rafael Leonardo - https://www.linkedin.com/in/rafael-leonardo-cruz/
 
 
-# Serviços da AWS
+## Serviços da AWS
 
 ![CNCF: Capacidades i](./cap-01.jpg)
 ![CNCF: Capacidades ii](./cap-02.jpg)
